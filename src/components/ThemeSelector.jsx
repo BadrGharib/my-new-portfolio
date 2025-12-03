@@ -3,8 +3,8 @@ import { FaPalette } from 'react-icons/fa'
 import './ThemeSelector.scss'
 
 const themes = [
-  { id: 'default', name: 'Purple', colors: ['#6366f1', '#8b5cf6'] },
-  { id: 'green', name: 'Green', colors: ['#10b981', '#34d399'] },
+  { id: 'Purple', name: 'Purple', colors: ['#6366f1', '#8b5cf6'] },
+  { id: 'default', name: 'Green', colors: ['#10b981', '#34d399'] },
   { id: 'red', name: 'Red', colors: ['#ef4444', '#f87171'] },
   { id: 'orange', name: 'Orange', colors: ['#f97316', '#fb923c'] },
   { id: 'cyan', name: 'Cyan', colors: ['#06b6d4', '#22d3ee'] },
