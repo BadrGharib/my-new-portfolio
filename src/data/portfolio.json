@@ -264,7 +264,7 @@
         "name": "ServiceNow Shape-Toolkit",
         "description": "Custom web component used to draw shapes as (line, polygon, rectangle) on camera image and extract coordinates to use by machine learning algorithms.",
         "tags": ["Seismic", "Tectonic", "SCSS", "JavaScript", "ES6", "HTML"],
-        "image": "/assets/images/projects/shape-toolkit.jpg",
+        "image": "/assets/images/shape-toolkit.jpeg",
         "link": ""
       },
       {
@@ -275,10 +275,10 @@
         "link": ""
       },
       {
-        "name": "Vessels Project",
+        "name": "Retrofit Project",
         "description": "A web-based platform for managing vessels, analyzing costs and revenues based on various retrofit modifications. It provides dynamic insights to optimize vessel performance and financial outcomes.",
         "tags": ["Next.js", "TypeScript", "Styled Components", "Redux Toolkit", "Material UI"],
-        "image": "/assets/images/projects/vessels.jpg",
+        "image": "/assets/images/retrofit.jpeg",
         "link": ""
       },
       {

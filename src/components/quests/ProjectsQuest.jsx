@@ -25,7 +25,7 @@ function ProjectsQuest() {
               </div>
             </div>
             <div className="project-content">
-              <h3>{project.title}</h3>
+              <h3>{project.name}</h3>
               <p>{project.description}</p>
               <div className="project-tags">
                 {project.tags.map((tag, i) => (

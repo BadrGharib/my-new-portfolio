@@ -18,6 +18,12 @@
   border-color: rgba(99, 102, 241, 0.5);
   box-shadow: 0 12px 40px var(--shadow-color);
 }
+.project-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--text-color);
+}
 
 .project-image {
   position: relative;
