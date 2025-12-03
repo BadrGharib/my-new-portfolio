@@ -5,25 +5,7 @@
 }
 
 :root {
-  /* Default Theme (Purple/Blue) */
-  --bg-primary: #0a0e27;
-  --bg-secondary: #1a1f3a;
-  --bg-card: rgba(255, 255, 255, 0.05);
-  --bg-card-hover: rgba(255, 255, 255, 0.08);
-  --accent-primary: #6366f1;
-  --accent-secondary: #8b5cf6;
-  --text-primary: #e0e6ed;
-  --text-secondary: #a0aec0;
-  --text-white: #ffffff;
-  --border-color: rgba(139, 92, 246, 0.2);
-  --border-color-hover: rgba(139, 92, 246, 0.5);
-  --shadow-color: rgba(99, 102, 241, 0.3);
-  --bg-list-item: rgba(255, 255, 255, 0.03);
-  --bg-list-item-hover: rgba(99, 102, 241, 0.1);
-}
-
-/* Green Theme */
-[data-theme="green"] {
+  /* Default Theme (Green) */
   --bg-primary: #0a1f0e;
   --bg-secondary: #1a3a1f;
   --bg-card: rgba(255, 255, 255, 0.05);
@@ -33,6 +15,24 @@
   --text-secondary: #a0c4b0;
   --border-color: rgba(16, 185, 129, 0.2);
   --shadow-color: rgba(16, 185, 129, 0.3);
+  --bg-card-hover: rgba(255, 255, 255, 0.08);
+  --text-white: #ffffff;
+  --border-color-hover: rgba(139, 92, 246, 0.5);
+  --bg-list-item: rgba(255, 255, 255, 0.03);
+  --bg-list-item-hover: rgba(99, 102, 241, 0.1);
+}
+
+/* Purple Theme */
+[data-theme="Purple"] {
+  --bg-primary: #0a0e27;
+  --bg-secondary: #1a1f3a;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --accent-primary: #6366f1;
+  --accent-secondary: #8b5cf6;
+  --text-primary: #e0e6ed;
+  --text-secondary: #a0aec0;
+  --border-color: rgba(139, 92, 246, 0.2);
+  --shadow-color: rgba(99, 102, 241, 0.3); 
 }
 
 /* Red Theme */

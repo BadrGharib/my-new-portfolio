@@ -28,7 +28,7 @@
       {
         "icon": "🌟",
         "title": "The Beginning",
-        "content": "Meet Badr Gharib, a ServiceNow Staff Software Engineer with over 12 years of experience in software engineering, including the last 3 years as ServiceNow engineer. Started his journey with a B.Sc. in Computer Science from Assiut University (2002-2006)."
+        "content": "Meet Badr Gharib, a ServiceNow Staff Software Engineer with over 12 years of experience in software engineering, including the last 3 years as ServiceNow engineer. Started his journey with a B.Sc. in Computer Science."
       },
       {
         "icon": "💻",
@@ -271,7 +271,7 @@
         "name": "Parsifal Platform",
         "description": "A web-based platform adaptable to various fields like security, retail, and healthcare, processing diverse data sources (video, audio, IoT) and visualizing them through GIS maps, 3D maps, and heat maps. It enhances situational awareness by presenting real-time events, alarms, and insights, helping clients respond with structured action plans.",
         "tags": ["React", "Redux", "SCSS", "JavaScript"],
-        "image": "/assets/images/projects/parsifal.jpg",
+        "image": "/assets/images/parsifal-all-2.png",
         "link": ""
       },
       {
@@ -285,7 +285,7 @@
         "name": "Covid19 Project",
         "description": "A web-based system for detecting infected individuals using thermal cameras, streaming both normal and thermal video, and triggering alerts when temperatures exceed a set threshold. It played a key role in safely returning football fans to stadiums during the COVID-19 pandemic.",
         "tags": ["React", "Redux", "SCSS", "JavaScript"],
-        "image": "/assets/images/projects/covid19.jpg",
+        "image": "/assets/images/covid19.png",
         "link": ""
       },
       {

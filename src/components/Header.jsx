@@ -3,7 +3,7 @@ import './Header.css'
 import portfolioData from '../data/portfolio.json'
 
 function Header() {
-  const { name, title, profileImage } = portfolioData.personal
+  const { name, title, subtitle, profileImage } = portfolioData.personal
   
   return (
     <header className="header">
@@ -16,6 +16,7 @@ function Header() {
         <div className="profile-info">
           <h1 className="profile-name">{name}</h1>
           <p className="profile-title">{title}</p>
+          <p className="profile-sub-title">{subtitle}</p>
         </div>
       </div>
       <div className="story-title">

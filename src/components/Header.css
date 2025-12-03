@@ -40,6 +40,10 @@
   font-size: 0.9rem;
   color: var(--text-secondary);
 }
+.profile-sub-title {
+  font-size: 0.6rem;
+  color: var(--text-secondary);
+}
 
 .story-title {
   display: flex;
