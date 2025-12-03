@@ -1,0 +1,415 @@
+{
+  "personal": {
+    "name": "Badr Gharib",
+    "title": "ServiceNow Staff Software Engineer",
+    "subtitle": "EX – Frontend Technical Lead (React, Next.js, Redux)",
+    "location": "Cairo, Egypt",
+    "email": "dev.badr.gharib@gmail.com",
+    "phone": "(+20) 1000269056",
+    "linkedin": "linkedin.com/in/badr-gharib/",
+    "github": "github.com/BadrGharib",
+    "profileImage": "/assets/images/badr-profile.jpeg",
+    "summary": "Over 12 years of software engineering experience, including 3 years specializing as a ServiceNow engineer. Expert in designing and delivering secure, high-performance, and user-friendly solutions.",
+    "badges": [
+      {
+        "text": "ServiceNow Expert",
+        "icon": "lightbulb"
+      },
+      {
+        "text": "12+ Years Experience",
+        "icon": "heart"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Discover the story behind the code",
+    "storySteps": [
+      {
+        "icon": "🌟",
+        "title": "The Beginning",
+        "content": "Meet Badr Gharib, a ServiceNow Staff Software Engineer with over 12 years of experience in software engineering, including the last 3 years as ServiceNow engineer. Started his journey with a B.Sc. in Computer Science from Assiut University (2002-2006)."
+      },
+      {
+        "icon": "💻",
+        "title": "The Journey",
+        "content": "From full-stack development to frontend architecture, Badr has designed and built scalable platforms from scratch, led teams, and mastered cutting-edge technologies including React, Next.js, Redux, and AWS Cloud."
+      },
+      {
+        "icon": "🚀",
+        "title": "The Mission",
+        "content": "Now architecting high-performance solutions at ServiceNow, building Retail Applications with ML integration, troubleshooting customer issues, and reviewing peer designs while pushing the boundaries of frontend engineering with micro-frontends and modern design patterns."
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Professional journey and achievements",
+    "timeline": [
+      {
+        "title": "Staff Software Engineer",
+        "company": "ServiceNow",
+        "website": "https://www.servicenow.com/",
+        "period": "07/2023 - Present",
+        "location": "Cairo, Egypt",
+        "description": "Architect & deliver scalable ServiceNow solutions, build custom modules, flows, APIs, automations, platform extensions and integrations, ARB and Security review. Lead engineering design, reviews, technical decision-making, Mentor developers and enforce coding and platform best practices. Implement and develop the most challenge part in Shape-Toolkit component to make it support accessibility and use keyboard to draw (line, polygon, rectangle), resizing and customizing existing shapes.",
+        "tags": ["Glide API", "Flow Designer", "Business Rules", "Client Scripts", "UI Policies", "Script Includes", "Seismic", "Tectonic", "SCSS", "JavaScript", "ES6"]
+      },
+      {
+        "title": "Technical Lead Frontend Engineer (React, Redux)",
+        "company": "G2K Group",
+        "website": "https://g2k.ai/",
+        "period": "06/2019 - 07/2023",
+        "location": "Cairo, Egypt",
+        "description": "Designing and building the frontend main architecture from scratch to convert PARSIFAL platform from desktop application to React web application, that guaranty the maintainability, scalability, accept any change at any time. Integrating with many different Map systems like Google Map, Cesium 3D map. Build custom 2D image map with zooming and panning. Integrate with Thermal Cameras to stream normal and thermal videos for Covid19 project. Build frontend team and train new comers to follow best practices.",
+        "tags": ["React", "Redux", "JavaScript", "ES6", "SCSS", "Jest", "React Testing Library", "Git", "Socket.IO", "Docker", "AWS", "CI/CD", "SonarQube"]
+      },
+      {
+        "title": "Senior Consultant Engineer",
+        "company": "QCentris",
+        "website": "https://www.qcentris.com/",
+        "period": "01/2019 - 06/2019",
+        "location": "Cairo, Egypt",
+        "description": "Support the team in refactoring old projects and apply the best practice architecture in new projects.",
+        "tags": [".NET", "React", "Redux", "JavaScript", "ES6", "SCSS"]
+      },
+      {
+        "title": "Technical Leader Software Engineer",
+        "company": "G2K Group",
+        "website": "https://g2k.ai/",
+        "period": "01/2013 - 01/2019",
+        "location": "Cairo, Egypt",
+        "description": "Develop web application for New Egyptian Museum, make integration with NEC face recognition algorithm. Integrate Cortana Microsoft's personal digital assistant with home automation. Design and develop semi border control Augmented Reality app on HoloLens Glasses presented at CeBIT 2017. Research and implement prototypes applications at IOT and Augmented Reality.",
+        "tags": ["ASP.NET MVC", "C#", "WPF", "Unity3D", "UWP", "Web API", "WCF", ".NET Core", "Win10 IOT", "Xamarin Forms", "SignalR", "Azure"]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Caelum Middle East",
+        "website": "http://caelum-knowledge.com/",
+        "period": "01/2010 - 01/2013",
+        "location": "Cairo, Egypt",
+        "description": "Working as full stack developer in many desktop application related to identification systems like Border Control, e-Passport and e-ID. Make integration with many of devices as fingerprint scanner, passport scanner and SDKs.",
+        "tags": ["C#", "WPF", "WCF", "Entity Framework", "LINQ", "Windows Service", "Web Service", "ADO.NET", "SQL Server"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Academic achievements and learning path",
+    "items": [
+      {
+        "type": "degree",
+        "icon": "🎓",
+        "title": "Bachelor's Degree",
+        "university": "Assiut University",
+        "field": "Computer Science",
+        "grade": "Faculty of Science",
+        "year": "2002 - 2006"
+      },
+      {
+        "type": "certifications",
+        "icon": "📜",
+        "title": "Professional Certifications",
+        "items": [
+          {
+            "name": "React Nanodegree",
+            "description": "Mastered React for building declarative UIs and React Native for iOS & Android development. Learned state management with Redux to create scalable and maintainable applications. Gained career-ready front-end skills through hands-on projects.",
+            "link": "https://graduation.udacity.com/confirm/3DJCM72S",
+            "status": "21/07/2019"
+          },
+          {
+            "name": "AWS Cloud Developer Nanodegree",
+            "description": "Mastered AWS, cloud architecture, and scalable full-stack deployment, designing microservices with replication and independent scaling. Built serverless applications, secure REST APIs, and deployed complex cloud solutions with best security practices.",
+            "link": "https://graduation.udacity.com/confirm/PAVD9M6K",
+            "status": "25/02/2021"
+          },
+          {
+            "name": "AWS Cloud Architect Nanodegree",
+            "description": "Designed and optimized AWS architectures with network strategies, multi-account management, and cost optimization. Migrated and modernized data processing with Glue, Athena, and built scalable, serverless, event-driven solutions using CloudFormation.",
+            "link": "https://graduation.udacity.com/confirm/HNP7QTEL",
+            "status": "17/05/2021"
+          },
+          {
+            "name": "Advanced Full-Stack Web Development",
+            "description": "CDevelop scalable Node.js backends with Express & TypeScript, secure RESTful APIs, and automated CI/CD deployments using AWS Elastic Beanstalk, CircleCI, and RDS.",
+            "link": "https://graduation.udacity.com/confirm/VSLPFCK3",
+            "status": "12/03/2023"
+          },
+          {
+            "name": "AI Programming with Python Nanodegree",
+            "description": "Develop a strong AI foundation with Python, leveraging NumPy, pandas, and Matplotlib for data analysis. Developed and trained ML models using PyTorch, implementing neural networks, Transformer models, and generative AI for NLP tasks.",
+            "link": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089",
+            "status": "In Progress"
+          }
+        ]
+      },
+      {
+        "type": "learning",
+        "icon": "📚",
+        "title": "Languages",
+        "items": [
+          "Arabic (Native)",
+          "English (Very Good)",
+          "German (A1)"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technical abilities and expertise",
+    "categories": [
+      {
+        "name": "ServiceNow",
+        "skills": [
+          { "name": "Glide API", "level": 95 },
+          { "name": "Flow Designer / Workflows", "level": 95 },
+          { "name": "Business Rules", "level": 95 },
+          { "name": "Client Scripts", "level": 95 },
+          { "name": "UI Policies", "level": 95 },
+          { "name": "Script Includes", "level": 95 }
+        ]
+      },
+      {
+        "name": "Frontend Technologies",
+        "skills": [
+          { "name": "React / Next.js", "level": 95 },
+          { "name": "Redux / Redux Toolkit", "level": 95 },
+          { "name": "JavaScript / TypeScript", "level": 95 },
+          { "name": "HTML / CSS / SCSS", "level": 90 },
+          { "name": "Python / React Native", "level": 80 }
+        ]
+      },
+      {
+        "name": "Styling & Testing",
+        "skills": [
+          { "name": "TailwindCSS / Styled-Components", "level": 90 },
+          { "name": "Jest / React Testing Library", "level": 88 },
+          { "name": "Webpack / Vite", "level": 85 }
+        ]
+      },
+      {
+        "name": "Cloud & DevOps",
+        "skills": [
+          { "name": "AWS Cloud Services", "level": 90 },
+          { "name": "Docker / Jenkins", "level": 85 },
+          { "name": "CI/CD Pipelines", "level": 88 }
+        ]
+      },
+      {
+        "name": "Architecture & Principles",
+        "skills": [
+          { "name": "Micro Frontend Architecture", "level": 92 },
+          { "name": "System Design / TDD", "level": 90 },
+          { "name": "Design Patterns / DDD", "level": 88 },
+          { "name": "Neural Network / AI", "level": 75 }
+        ]
+      }
+    ],
+    "tools": [
+      "Git",
+      "GraphQL",
+      "Socket.IO",
+      "Agile/Scrum",
+      "SonarQube",
+      "Entity Framework",
+      "Unity3D",
+      "ASP.NET",
+      "WPF",
+      "Azure"
+    ]
+  },
+  "activities": {
+    "title": "Activities",
+    "subtitle": "Achievements and community involvement",
+    "items": [
+      {
+        "icon": "trophy",
+        "title": "Frontend Architecture Design",
+        "description": "Designed and built scalable frontend architecture from scratch for PARSIFAL platform, ensuring maintainability and flexibility across multiple domains",
+        "date": "2019 - 2023"
+      },
+      {
+        "icon": "award",
+        "title": "Team Leadership & Training",
+        "description": "Built and trained frontend development teams, mentoring new developers in best practices and design patterns",
+        "date": "2019 - Present"
+      },
+      {
+        "icon": "star",
+        "title": "Innovative Solutions",
+        "description": "Developed cutting-edge solutions including HoloLens AR for border control (presented at CeBIT 2017) and ML-integrated retail applications",
+        "date": "2017 - Present"
+      },
+      {
+        "icon": "medal",
+        "title": "Multi-Domain Expertise",
+        "description": "Successfully delivered solutions across diverse sectors: Security, Retail, Healthcare, Smart Cities, and Government Systems",
+        "date": "2010 - Present"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Showcase of creative solutions",
+    "items": [
+      {
+        "name": "ServiceNow Smart-Ops",
+        "description": "Retail Store Automation Platform that addresses multiple retail scenarios such as queue management, empty shelf detection, visitor counting, shopping time analysis, and shopping media insights. It predicts potential issues based on historical data and provides real-time notifications through Kafka. The platform integrates with CSM/FSM to automatically create cases and uses rule-based management to trigger subflows for required actions.",
+        "tags": ["Glide API", "Flow Designer", "Business Rules", "Client Scripts", "UI Policies", "Script Includes"],
+        "image": "/assets/images/projects/smartops.jpg",
+        "link": ""
+      },
+      {
+        "name": "ServiceNow Shape-Toolkit",
+        "description": "Custom web component used to draw shapes as (line, polygon, rectangle) on camera image and extract coordinates to use by machine learning algorithms.",
+        "tags": ["Seismic", "Tectonic", "SCSS", "JavaScript", "ES6", "HTML"],
+        "image": "/assets/images/projects/shape-toolkit.jpg",
+        "link": ""
+      },
+      {
+        "name": "Parsifal Platform",
+        "description": "A web-based platform adaptable to various fields like security, retail, and healthcare, processing diverse data sources (video, audio, IoT) and visualizing them through GIS maps, 3D maps, and heat maps. It enhances situational awareness by presenting real-time events, alarms, and insights, helping clients respond with structured action plans.",
+        "tags": ["React", "Redux", "SCSS", "JavaScript"],
+        "image": "/assets/images/projects/parsifal.jpg",
+        "link": ""
+      },
+      {
+        "name": "Vessels Project",
+        "description": "A web-based platform for managing vessels, analyzing costs and revenues based on various retrofit modifications. It provides dynamic insights to optimize vessel performance and financial outcomes.",
+        "tags": ["Next.js", "TypeScript", "Styled Components", "Redux Toolkit", "Material UI"],
+        "image": "/assets/images/projects/vessels.jpg",
+        "link": ""
+      },
+      {
+        "name": "Covid19 Project",
+        "description": "A web-based system for detecting infected individuals using thermal cameras, streaming both normal and thermal video, and triggering alerts when temperatures exceed a set threshold. It played a key role in safely returning football fans to stadiums during the COVID-19 pandemic.",
+        "tags": ["React", "Redux", "SCSS", "JavaScript"],
+        "image": "/assets/images/projects/covid19.jpg",
+        "link": ""
+      },
+      {
+        "name": "Face Recognition Project for Egyptian Grand Museum",
+        "description": "A web-based system for detecting individuals via IP cameras using facial recognition against predefined lists, with real-time notifications upon detection.",
+        "tags": ["ASP.NET MVC", "HTML5", "JavaScript", "CSS", "jQuery", "Bootstrap", "Ajax", "SignalR"],
+        "image": "/assets/images/projects/museum-fr.jpg",
+        "link": ""
+      },
+      {
+        "name": "HoloLens AR Border Control",
+        "description": "Augmented Reality application on HoloLens Glasses to capture and match passenger faces, capture and extract passport MRZ. Presented at CeBIT 2017.",
+        "tags": ["C#", "Unity3D", "HoloLens", "AR"],
+        "image": "/assets/images/projects/hololens-ar.jpg",
+        "link": ""
+      },
+      {
+        "name": "Other Projects",
+        "description": "Border control systems, Video Surveillance platforms, New Mexican passport system, New Dominican passport system.",
+        "tags": ["C#", "WPF", ".NET", "Face Recognition", "Biometrics"],
+        "image": "/assets/images/projects/other.jpg",
+        "link": ""
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's connect and collaborate",
+    "message": "Have a project in mind or want to collaborate? I'm always open to discussing new opportunities, innovative projects, and interesting challenges. Feel free to reach out!",
+    "socialLinks": [
+      {
+        "icon": "envelope",
+        "text": "Email",
+        "url": "mailto:dev.badr.gharib@gmail.com"
+      },
+      {
+        "icon": "linkedin",
+        "text": "LinkedIn",
+        "url": "https://www.linkedin.com/in/badr-gharib/"
+      },
+      {
+        "icon": "github",
+        "text": "GitHub",
+        "url": "https://github.com/BadrGharib"
+      },
+      {
+        "icon": "twitter",
+        "text": "Phone",
+        "url": "tel:+201000269056"
+      }
+    ]
+  },
+  "aiGuide": {
+    "questMessages": {
+      "about": "Hey there, future colleague! 👋 Ready to meet the legend behind this code? I'm basically the Batman of software development, but with better debugging skills and way more coffee additions ☕️",
+      "experience": "Time to dive into my professional battlefield! 💼 I've conquered bugs, tamed microservices, and made databases sing lullabies. Warning: May contain traces of genius! 🚀",
+      "education": "Welcome to my learning journey! 🎓 From honor grades to endless certifications, I've been collecting knowledge like Pokémon cards. Gotta learn 'em all! 📚✨",
+      "skills": "Check out my arsenal of technical superpowers! 💻 These progress bars aren't just for show - they're my skill levels in the game of code. Currently maxing out my React and Node.js stats! ⚡",
+      "activities": "Achievement unlocked! 🏆 This is where I show off my side quests: hackathons won, communities built, and developers mentored. I'm basically the Gandalf of tech meetups! 🧙‍♂️",
+      "projects": "Behold, my portfolio of digital creations! 📁 Each project is like a child to me... except these ones actually compile and don't ask for money. Click around and see what I've built! 🎨",
+      "contact": "Ready to team up? ✉️ This is your portal to reach me! Whether you want to collaborate, hire me, or just discuss why tabs are better than spaces (they're not, but we can debate), drop me a message! 📬"
+    },
+    "knowledgeBase": {
+      "about": {
+        "keywords": ["who", "about", "you", "name", "badr", "location", "cairo", "story", "background"],
+        "responses": {
+          "default": "I'm Badr Gharib, a ServiceNow Staff Software Engineer from Cairo, Egypt! With 12+ years of experience including the last 3 years at ServiceNow, I've built everything from AR apps on HoloLens to ML-integrated retail platforms! ",
+          "location": "I'm based in Cairo, Egypt! Beautiful city, amazing tech scene, and the best place to write code with a view of ancient history! ",
+          "education_brief": "I graduated with an honor grade from the German University in Cairo, majoring in Computer Engineering. Quality education meets passion! "
+        }
+      },
+      "experience": {
+        "keywords": ["experience", "work", "job", "company", "senior", "role", "position", "career"],
+        "responses": {
+          "default": "I have progressive experience in software engineering! 💼 Started as a Junior Developer at Digital Agency (2019-2020), moved to Software Engineer at StartUp Inc (2020-2022), and now I'm a Senior Software Engineer at Tech Company (2022-Present)! 📈",
+          "senior": "As a Senior Software Engineer since 2022, I lead development of scalable web applications, mentor junior developers, and drive technical decisions. My tech stack includes React, Node.js, AWS, and TypeScript! 💪",
+          "technologies": "I've worked with amazing technologies: React, Node.js, AWS, TypeScript, JavaScript, Python, Docker, MongoDB, and more! Each role expanded my tech arsenal! ⚡",
+          "current": "Currently, I'm a Senior Software Engineer at Tech Company where I build scalable applications and mentor the next generation of developers! 🎯"
+        }
+      },
+      "education": {
+        "keywords": ["education", "university", "degree", "study", "graduate", "assiut", "certification", "learning", "udacity"],
+        "responses": {
+          "default": "I hold a B.Sc. in Computer Science from Assiut University (2002-2006)! 🎓 Plus, I have 4 completed Udacity Nanodegrees and currently pursuing AI Programming with Python! 📚",
+          "certifications": "My Udacity certifications: React (2019), AWS Cloud Developer (2021), AWS Cloud Architect (2021), Advanced Full-Stack (2023), and AI Programming with Python (In Progress)! Always leveling up! 📜✨",
+          "university": "Assiut University - graduated with B.Sc. in Computer Science from Faculty of Science (2002-2006). Strong foundation in CS fundamentals! 🏛️",
+          "continuous": "I'm all about continuous learning! Completed 4 Udacity Nanodegrees covering React, AWS Cloud Architecture, and Full-Stack Development! 🚀"
+        }
+      },
+      "skills": {
+        "keywords": ["skills", "technology", "tech", "stack", "languages", "framework", "tools", "know", "can", "react", "frontend"],
+        "responses": {
+          "default": "My skill set is extensive! 💻 Frontend: React/Next.js (95%), Redux (95%), TypeScript (95%), Python (80%), SCSS/TailwindCSS (90%). Testing: Jest, React Testing Library (88%). Cloud: AWS (90%), Docker/Jenkins (85%). Architecture: Micro Frontend (92%), System Design/TDD (90%), Neural Network/AI (75%). Plus legacy: C#, Unity3D, ASP.NET! ⚡",
+          "frontend": "Frontend is my specialty! React/Next.js at 95%, Redux/Redux Toolkit at 95%, TypeScript at 95%. I architect scalable, maintainable applications from scratch! 🎨",
+          "architecture": "I specialize in Micro Frontend Architecture (92%), System Design (90%), and Design Patterns/DDD (88%). Built PARSIFAL platform architecture serving multiple industries! 🔧",
+          "tools": "My toolkit: Git, GraphQL, Socket.IO, Agile/Scrum, SonarQube, plus experience with Entity Framework, Unity3D, ASP.NET, WPF, Azure! Everything needed for enterprise development! 🛠️"
+        }
+      },
+      "activities": {
+        "keywords": ["activities", "achievement", "hackathon", "open source", "community", "mentor", "speaker", "contribution"],
+        "responses": {
+          "default": "I'm actively involved in the tech community! 🏆 Won first place in AI Innovation Hackathon 2023, contribute to open source React libraries, speak at tech conferences, and mentor junior developers and bootcamp students! 🌟",
+          "hackathon": "Won first place in the AI Innovation Hackathon 2023! 🥇 Nothing beats the thrill of building something amazing under pressure! 🚀",
+          "opensource": "I'm an active contributor to popular React libraries! Contributing to open source is my way of giving back to the community that taught me so much! 💚",
+          "mentorship": "Mentoring is my passion! I've been mentoring junior developers and bootcamp students since 2021. Helping others grow is incredibly rewarding! 🎓"
+        }
+      },
+      "projects": {
+        "keywords": ["projects", "portfolio", "built", "created", "app", "application", "work", "parsifal", "hololens", "museum"],
+        "responses": {
+          "default": "I've built amazing projects! 🚀 PARSIFAL Platform (multi-industry web platform), ServiceNow Retail App (ML integration), Vessels Management (Next.js), Covid19 Detection System (thermal cameras), Egyptian Museum Face Recognition, and HoloLens AR Border Control (presented at CeBIT 2017)! 💡",
+          "parsifal": "PARSIFAL Platform is my flagship - web-based platform serving security, retail, healthcare with video/audio/IoT integration, GIS maps, 3D maps, heat maps. Built the entire React architecture from scratch! 🤖",
+          "hololens": "Built an Augmented Reality app on HoloLens for border control - captures faces, matches passengers, extracts passport MRZ. Presented at CeBIT 2017! Revolutionary stuff! 📊",
+          "tech": "My projects span: React, Next.js, Redux, TypeScript, Unity3D, C#, ASP.NET, SignalR, Machine Learning APIs, Thermal Cameras, Face Recognition SDKs, and more! Always pushing boundaries! 🔧"
+        }
+      },
+      "contact": {
+        "keywords": ["contact", "reach", "email", "hire", "collaborate", "connect", "message", "talk"],
+        "responses": {
+          "default": "Want to connect? 📬 You can reach me through the contact form, or find me on GitHub, LinkedIn, and Twitter! I'm always open to interesting projects, collaborations, and tech discussions! Let's build something amazing together! 🤝",
+          "hire": "Interested in working together? Fill out the contact form with your project details! I'm always excited about new opportunities and challenges! 💼",
+          "collaborate": "I love collaboration! Whether it's open source, side projects, or tech discussions - drop me a message and let's create something awesome! 🚀"
+        }
+      }
+    }
+  }
+}

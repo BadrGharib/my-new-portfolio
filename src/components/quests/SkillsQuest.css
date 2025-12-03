@@ -1,0 +1,91 @@
+.skills-container {
+  display: grid;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.skill-category {
+  background: var(--bg-card);
+  border-radius: 16px;
+  padding: 2rem;
+  border: 1px solid var(--bg-card);
+}
+
+.skill-category h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.skill-category h3::before {
+  content: '⚡';
+  font-size: 1.3rem;
+}
+
+.skill-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.skill-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.skill-name {
+  color: var(--text-secondary);
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.skill-bar {
+  height: 30px;
+  background: var(--bg-card);
+  border-radius: 15px;
+  overflow: hidden;
+  border: 1px solid var(--bg-card);
+}
+
+.skill-level {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 1rem;
+  color: var(--text-primary);
+  font-weight: 700;
+  font-size: 0.85rem;
+  transition: width 1s ease;
+  box-shadow: 0 0 20px var(--shadow-color);
+}
+
+.tech-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.tech-badge {
+  padding: 0.75rem 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--shadow-color);
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 600;
+  color: var(--text-secondary);
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.tech-badge:hover {
+  background: var(--shadow-color);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 15px var(--shadow-color);
+}

@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Default Theme (Purple/Blue) */
+  --bg-primary: #0a0e27;
+  --bg-secondary: #1a1f3a;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --bg-card-hover: rgba(255, 255, 255, 0.08);
+  --accent-primary: #6366f1;
+  --accent-secondary: #8b5cf6;
+  --text-primary: #e0e6ed;
+  --text-secondary: #a0aec0;
+  --text-white: #ffffff;
+  --border-color: rgba(139, 92, 246, 0.2);
+  --border-color-hover: rgba(139, 92, 246, 0.5);
+  --shadow-color: rgba(99, 102, 241, 0.3);
+  --bg-list-item: rgba(255, 255, 255, 0.03);
+  --bg-list-item-hover: rgba(99, 102, 241, 0.1);
+}
+
+/* Green Theme */
+[data-theme="green"] {
+  --bg-primary: #0a1f0e;
+  --bg-secondary: #1a3a1f;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --accent-primary: #10b981;
+  --accent-secondary: #34d399;
+  --text-primary: #e0f2e9;
+  --text-secondary: #a0c4b0;
+  --border-color: rgba(16, 185, 129, 0.2);
+  --shadow-color: rgba(16, 185, 129, 0.3);
+}
+
+/* Red Theme */
+[data-theme="red"] {
+  --bg-primary: #1f0a0e;
+  --bg-secondary: #3a1a1f;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --accent-primary: #ef4444;
+  --accent-secondary: #f87171;
+  --text-primary: #f2e0e4;
+  --text-secondary: #c4a0a8;
+  --border-color: rgba(239, 68, 68, 0.2);
+  --shadow-color: rgba(239, 68, 68, 0.3);
+}
+
+/* Orange Theme */
+[data-theme="orange"] {
+  --bg-primary: #1f150a;
+  --bg-secondary: #3a2a1a;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --accent-primary: #f97316;
+  --accent-secondary: #fb923c;
+  --text-primary: #f2e8e0;
+  --text-secondary: #c4b4a0;
+  --border-color: rgba(249, 115, 22, 0.2);
+  --shadow-color: rgba(249, 115, 22, 0.3);
+}
+
+/* Cyan Theme */
+[data-theme="cyan"] {
+  --bg-primary: #0a1a1f;
+  --bg-secondary: #1a2f3a;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --accent-primary: #06b6d4;
+  --accent-secondary: #22d3ee;
+  --text-primary: #e0f2f5;
+  --text-secondary: #a0c4cc;
+  --border-color: rgba(6, 182, 212, 0.2);
+  --shadow-color: rgba(6, 182, 212, 0.3);
+}
+
+/* Pink Theme */
+[data-theme="pink"] {
+  --bg-primary: #1f0a1a;
+  --bg-secondary: #3a1a2f;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --accent-primary: #ec4899;
+  --accent-secondary: #f472b6;
+  --text-primary: #f2e0eb;
+  --text-secondary: #c4a0b8;
+  --border-color: rgba(236, 72, 153, 0.2);
+  --shadow-color: rgba(236, 72, 153, 0.3);
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+  color: var(--text-primary);
+  min-height: 100vh;
+  overflow-x: hidden;
+  transition: background 0.3s ease;
+}
+
+/* Themed Scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+  border-radius: 10px;
+  border: 2px solid var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, var(--accent-secondary) 0%, var(--accent-primary) 100%);
+  box-shadow: 0 0 10px var(--shadow-color);
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent-primary) var(--bg-secondary);
+}
