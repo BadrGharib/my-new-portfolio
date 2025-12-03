@@ -257,7 +257,7 @@
         "name": "ServiceNow Smart-Ops",
         "description": "Retail Store Automation Platform that addresses multiple retail scenarios such as queue management, empty shelf detection, visitor counting, shopping time analysis, and shopping media insights. It predicts potential issues based on historical data and provides real-time notifications through Kafka. The platform integrates with CSM/FSM to automatically create cases and uses rule-based management to trigger subflows for required actions.",
         "tags": ["Glide API", "Flow Designer", "Business Rules", "Client Scripts", "UI Policies", "Script Includes"],
-        "image": "/assets/images/projects/smartops.jpg",
+        "image": "",
         "link": ""
       },
       {
@@ -292,21 +292,21 @@
         "name": "Face Recognition Project for Egyptian Grand Museum",
         "description": "A web-based system for detecting individuals via IP cameras using facial recognition against predefined lists, with real-time notifications upon detection.",
         "tags": ["ASP.NET MVC", "HTML5", "JavaScript", "CSS", "jQuery", "Bootstrap", "Ajax", "SignalR"],
-        "image": "/assets/images/projects/museum-fr.jpg",
+        "image": "",
         "link": ""
       },
       {
         "name": "HoloLens AR Border Control",
         "description": "Augmented Reality application on HoloLens Glasses to capture and match passenger faces, capture and extract passport MRZ. Presented at CeBIT 2017.",
         "tags": ["C#", "Unity3D", "HoloLens", "AR"],
-        "image": "/assets/images/projects/hololens-ar.jpg",
+        "image": "",
         "link": ""
       },
       {
         "name": "Other Projects",
         "description": "Border control systems, Video Surveillance platforms, New Mexican passport system, New Dominican passport system.",
         "tags": ["C#", "WPF", ".NET", "Face Recognition", "Biometrics"],
-        "image": "/assets/images/projects/other.jpg",
+        "image": "",
         "link": ""
       }
     ]

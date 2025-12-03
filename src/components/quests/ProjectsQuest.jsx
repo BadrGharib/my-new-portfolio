@@ -13,17 +13,13 @@ function ProjectsQuest() {
       <div className="projects-grid">
         {items.map((project, index) => (
           <div key={index} className="project-card">
-            <div className="project-image">
-              <img src={project.image} alt={project.title} />
+           {
+           project.image && <div className="project-image">
+               <img src={project.image} alt={project.title} />
               <div className="project-overlay">
-                <a href={project.github} className="project-link">
-                  <FaGithub />
-                </a>
-                <a href={project.demo} className="project-link">
-                  <FaExternalLinkAlt />
-                </a>
               </div>
-            </div>
+            </div> 
+            }
             <div className="project-content">
               <h3>{project.name}</h3>
               <p>{project.description}</p>
